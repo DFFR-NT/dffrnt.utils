@@ -2,8 +2,13 @@
 	"name": "dffrnt.utils",
 	"version": "1.0.0",
 	"description": "A collection of useful API Utilities & PolyFills",
-	"main": "lib/utils.js",
 	"author": "Arian Johnson <arian.johnson@dffrnt.ca>",
+	"homepage": "https://dffrnt.ca",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/LeShaunJ/dffrnt.utils.git"
+	},
+	"main": "lib/utils.js",
 	"license": "GNU",
 	"dependencies": {
 		"harmony-reflect": "^1.4.2",
