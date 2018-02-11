@@ -2,7 +2,7 @@
 	"name": "dffrnt.utils",
 	"version": "1.0.0",
 	"description": "A collection of useful API Utilities & PolyFills",
-	"main": "index.js",
+	"main": "lib/utils.js",
 	"author": "Arian Johnson <arian.johnson@dffrnt.ca>",
 	"license": "GNU",
 	"dependencies": {
