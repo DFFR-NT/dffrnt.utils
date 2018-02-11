@@ -11,6 +11,7 @@
 	"main": "lib/utils.js",
 	"license": "GNU",
 	"dependencies": {
+		"app-root-path": "*",
 		"harmony-reflect": "^1.4.2",
 		"colors": "^1.1.0",
 		"object-assign": "*",
