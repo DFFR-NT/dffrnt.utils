@@ -1,0 +1,17 @@
+{
+	"name": "dffrnt.utils",
+	"version": "1.0.0",
+	"description": "A collection of useful API Utilities & PolyFills",
+	"main": "index.js",
+	"author": "Arian Johnson <arian.johnson@dffrnt.ca>",
+	"license": "GNU",
+	"dependencies": {
+		"harmony-reflect": "^1.4.2",
+		"colors": "^1.1.0",
+		"object-assign": "*",
+		"immutable": "*",
+		"immutablediff": "^0.4.4",
+		"strftime": "^0.9.2",
+		"longjohn": "*"
+	},
+}
