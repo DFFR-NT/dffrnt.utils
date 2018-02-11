@@ -1,2 +1,2 @@
-# dffrnt
-DFFRNT Innovations Official Git
+# dffrnt.utils
+A collection of useful API Utilities & PolyFills
