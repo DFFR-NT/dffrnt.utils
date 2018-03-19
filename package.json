@@ -8,7 +8,7 @@
 		"type" : "git",
 		"url" : "https://github.com/LeShaunJ/dffrnt.utils.git"
 	},
-	"main": "lib/utils.js",
+	"main": "index.js",
 	"license": "GNU",
 	"dependencies": {
 		"app-root-path": "*",
