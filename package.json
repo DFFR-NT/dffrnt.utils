@@ -4,10 +4,7 @@
 	"description": "A collection of useful API Utilities & PolyFills",
 	"author": "Arian Johnson <arian.johnson@icloud.com>",
 	"homepage": "https://dffrnt.ca",
-	"repository" : {
-		"type" : "git",
-		"url" : "https://github.com/LeShaunJ/dffrnt.utils.git"
-	},
+	"repository" : "DFFR-NT/dffrnt.utils",
 	"main": "index.js",
 	"license": "GNU",
 	"dependencies": {
