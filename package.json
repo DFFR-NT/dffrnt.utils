@@ -10,10 +10,10 @@
   "homepage": "https://dffrnt.ca",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeShaunJ/dffrnt.utils.git"
+    "url": "git+https://github.com/DFFR-NT/dffrnt.utils.git"
   },
   "bugs": {
-    "url": "https://github.com/LeShaunJ/dffrnt.utils/issues"
+    "url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
   },
   "main": "lib/utils.js",
   "deprecated": false,
