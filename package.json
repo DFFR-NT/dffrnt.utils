@@ -1,24 +1,57 @@
 {
-	"name": "dffrnt.utils",
-	"version": "1.0.0",
-	"description": "A collection of useful API Utilities & PolyFills",
-	"author": "Arian Johnson <arian.johnson@icloud.com>",
-	"homepage": "https://dffrnt.ca",
-	"repository" : "DFFR-NT/dffrnt.utils",
-	"main": "index.js",
-	"license": "MIT",
-	"dependencies": {
-		"app-root-path": "*",
-		"babel-core": "^6.7.4",
-		"babel-preset-env": "^1.6.1",
-		"babel-preset-es2015": "^6.6.0",
-		"babel-preset-react": "^6.5.0",
-		"colors": "^1.1.0",
-		"harmony-reflect": "^1.4.2",
-		"immutable": "*",
-		"immutablediff": "^0.4.4",
-		"longjohn": "*",
-		"object-assign": "*",
-		"strftime": "^0.9.2"
-	}
+  "_from": "git+https://github.com/leshaunj/dffrnt.utils.git",
+  "_id": "dffrnt.utils@1.0.0",
+  "_inBundle": false,
+  "_location": "/dffrnt.utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "dffrnt.utils@git+https://github.com/leshaunj/dffrnt.utils.git",
+    "name": "dffrnt.utils",
+    "escapedName": "dffrnt.utils",
+    "rawSpec": "git+https://github.com/leshaunj/dffrnt.utils.git",
+    "saveSpec": "git+https://github.com/leshaunj/dffrnt.utils.git",
+    "fetchSpec": "https://github.com/leshaunj/dffrnt.utils.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/",
+    "/dffrnt.model",
+    "/dffrnt.route"
+  ],
+  "_resolved": "git+https://github.com/leshaunj/dffrnt.utils.git#0f032766a89356e7dae64d32e77130712615d7f2",
+  "_spec": "dffrnt.utils@git+https://github.com/leshaunj/dffrnt.utils.git",
+  "_where": "/Users/LeShaun/Dropbox/Development/DFFRNT/API",
+  "author": {
+    "name": "Arian Johnson",
+    "email": "arian.johnson@icloud.com"
+  },
+  "bugs": {
+    "url": "https://github.com/LeShaunJ/dffrnt.utils/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "app-root-path": "*",
+    "babel-core": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "colors": "^1.1.0",
+    "harmony-reflect": "^1.4.2",
+    "immutable": "*",
+    "immutablediff": "^0.4.4",
+    "longjohn": "*",
+    "object-assign": "*",
+    "strftime": "^0.9.2"
+  },
+  "deprecated": false,
+  "description": "A collection of useful API Utilities & PolyFills",
+  "homepage": "https://dffrnt.ca",
+  "license": "GNU",
+  "main": "lib/utils.js",
+  "name": "dffrnt.utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeShaunJ/dffrnt.utils.git"
+  },
+  "version": "1.0.0"
 }
