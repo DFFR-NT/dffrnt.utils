@@ -8,10 +8,7 @@
     "email": "arian.johnson@icloud.com"
   },
   "homepage": "https://dffrnt.ca",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DFFR-NT/dffrnt.utils.git"
-  },
+  "repository": "DFFR-NT/dffrnt.utils",
   "bugs": {
     "url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
   },
