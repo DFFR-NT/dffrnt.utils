@@ -12,7 +12,7 @@
 	"bugs": {
 		"url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
 	},
-	"main": "lib/utils.js",
+	"main": "index.js",
 	"deprecated": false,
 	"bundleDependencies": false,
 	"dependencies": {
