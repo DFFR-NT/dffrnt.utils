@@ -1,28 +1,54 @@
 {
-	"name": "dffrnt.utils",
-	"description": "A collection of useful API Utilities & PolyFills",
-	"version": "1.5.0",
-	"license": "GNU",
-	"author": {
-		"name": "Arian Johnson",
-		"email": "arian.johnson@icloud.com"
-	},
-	"homepage": "https://dffrnt.ca",
-	"repository": "DFFR-NT/dffrnt.utils",
-	"bugs": {
-		"url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
-	},
-	"main": "index.js",
-	"deprecated": false,
-	"bundleDependencies": false,
-	"dependencies": {
-		"app-root-path": "*",
-		"colors": "^1.1.0",
-		"harmony-reflect": "^1.4.2",
-		"immutable": "*",
-		"immutablediff": "^0.4.4",
-		"longjohn": "*",
-		"object-assign": "*",
-		"strftime": "^0.9.2"
-	}
+  "_from": "github:DFFR-NT/dffrnt.utils#v1.5.0",
+  "_id": "dffrnt.utils@1.5.0",
+  "_inBundle": false,
+  "_location": "/dffrnt.utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "dffrnt.utils@github:DFFR-NT/dffrnt.utils#v1.5.0",
+    "name": "dffrnt.utils",
+    "escapedName": "dffrnt.utils",
+    "rawSpec": "github:DFFR-NT/dffrnt.utils#v1.5.0",
+    "saveSpec": "github:DFFR-NT/dffrnt.utils#v1.5.0",
+    "fetchSpec": null,
+    "gitCommittish": "v1.5.0"
+  },
+  "_requiredBy": [
+    "/",
+    "/dffrnt.confs",
+    "/dffrnt.route"
+  ],
+  "_resolved": "github:DFFR-NT/dffrnt.utils#e661aa5328690f5019b3f92a633442ce0631d682",
+  "_spec": "dffrnt.utils@github:DFFR-NT/dffrnt.utils#v1.5.0",
+  "_where": "/Users/LeShaun/Dropbox/Development/DFFRNT/API-Test",
+  "author": {
+    "name": "Arian Johnson",
+    "email": "arian.johnson@icloud.com"
+  },
+  "bugs": {
+    "url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "app-root-path": "*",
+    "colors": "^1.1.0",
+    "harmony-reflect": "^1.4.2",
+    "immutable": "*",
+    "immutablediff": "^0.4.4",
+    "longjohn": "*",
+    "object-assign": "*",
+    "strftime": "^0.9.2"
+  },
+  "deprecated": false,
+  "description": "A collection of useful API Utilities & PolyFills",
+  "homepage": "https://dffrnt.ca",
+  "license": "GNU",
+  "main": "lib/utils.js",
+  "name": "dffrnt.utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFFR-NT/dffrnt.utils.git"
+  },
+  "version": "1.5.0"
 }
