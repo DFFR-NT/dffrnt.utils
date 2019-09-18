@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.utils",
-	"version": "2.5.0",
+	"version": "3.0.0",
 	"description": "A collection of useful API Utilities & PolyFills",
 	"keywords": [
 		"utility-library",
@@ -22,6 +22,7 @@
 		"url": "https://github.com/DFFR-NT/dffrnt.utils/issues"
 	},
 	"main": "lib/utils.js",
+	"engines" : { "node" : ">=8.94 <10.16.3" },
 	"license": "MIT",
 	"dependencies": {
 		"app-root-path": "2.0.1",
