@@ -495,7 +495,7 @@ export module 'dffrnt.utils' {
         /**
          * Get an `Array` comprised of the `project-root` and the relative-path of this folder.
          */
-        readonly get dir(): any;
+        readonly get dir(): string[];
         /**
          * Gets the relative-path of the index file in this folder.
          */
